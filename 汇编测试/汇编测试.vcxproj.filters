@@ -18,10 +18,13 @@
     <ClCompile Include="汇编测试.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="链表练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="汇编.asm">
+    <Text Include="汇编.asm">
       <Filter>源文件</Filter>
-    </MASM>
+    </Text>
   </ItemGroup>
 </Project>

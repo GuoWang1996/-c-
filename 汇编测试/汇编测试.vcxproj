@@ -153,6 +153,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="汇编测试.cpp" />
+    <ClCompile Include="链表练习.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="汇编.asm">

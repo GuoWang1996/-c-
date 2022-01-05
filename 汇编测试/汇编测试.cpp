@@ -20,13 +20,13 @@ struct 人物对象
 	int D;
 };
 
-int main()
-{
-	人物对象 xiaoMing[2] = { {1, 2, 3},{4, 5, 6} };
-	//人物对象 *a;
-	//a = &xiaoMing;
-	//printf("%p %p %p ", &a->B, &a->C, &a->D);
-
-	//char a[6] = {'H','e','l','l','0'};
-	printf("");
-}
+//int main()
+//{
+//	人物对象 xiaoMing[2] = { {1, 2, 3},{4, 5, 6} };
+//	//人物对象 *a;
+//	//a = &xiaoMing;
+//	//printf("%p %p %p ", &a->B, &a->C, &a->D);
+//
+//	//char a[6] = {'H','e','l','l','0'};
+//	printf("");
+//}
